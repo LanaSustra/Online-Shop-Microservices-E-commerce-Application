@@ -17,6 +17,7 @@ docker compose -f docker-compose-redis.yml up
 
 Instalacija biblioteka u root-u: 
 
+```bash
 npm install @nestjs/common
 npm install @nestjs/core
 npm install @nestjs/microservices
@@ -25,6 +26,7 @@ npm install @nestjs/typeorm sqlite3
 npm install bootstrap
 //npm install react-router-dom (u frontendu)
 //npm install --save class-validation class-transformer (u svakom mikroserveru za validaciju)
+```
 
 Instalacija biblioteka na nivou `gateway`, `product`, `order` i `order-item` foldera.
 
@@ -57,8 +59,10 @@ npm run start:dev
 ```
 
 Pokretanje front-a:
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 
