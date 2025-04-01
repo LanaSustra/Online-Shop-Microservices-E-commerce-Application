@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^11.0.12",
+    "@nestjs/core": "^11.0.12",
+    "@nestjs/microservices": "^11.0.12",
+    "@nestjs/typeorm": "^11.0.0",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.21"
+  }
+}
