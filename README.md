@@ -1,3 +1,5 @@
+Projekat nije dovrsen, proizvodi se dodaju putem Postman-a.
+
 # Shop
 
 Prvi korak u pokretanju ovog projekta je da imamo instaliran Docker na svojim mašinama.
