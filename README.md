@@ -1,4 +1,3 @@
-Projekat nije dovrsen, proizvodi se dodaju putem Postman-a.
 
 # Shop
 
@@ -67,4 +66,4 @@ npm install
 npm run dev
 ```
 
-
+*Projekat nije dovrsen*
